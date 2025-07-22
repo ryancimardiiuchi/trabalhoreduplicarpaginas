@@ -1,0 +1,33 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+hr {
+  all: unset;
+  display: block;
+  height: 1px;
+  background-color: black;
+}
+
+body {
+    background-color: white;
+    font-family: 'Times New Roman';
+}
+.textodomeio {
+    padding: 100px 0;
+    text-align: left;
+}
+.textodomeio h1 {
+    font-size: 6rem;
+    line-height: 80px;
+}
+.textodomeio p {
+    font-size: 1.25rem;
+    color: #555;
+}
+.textodebaixo a {
+    margin: 0 10px;
+    color: #555;
+    text-decoration: none;
+}
+li, #escritameio{
+    font-family: arial;
+}

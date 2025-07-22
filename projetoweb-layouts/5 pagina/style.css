@@ -1,0 +1,15 @@
+.image-box {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    aspect-ratio: 3 / 2 ;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+}
+

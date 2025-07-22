@@ -1,0 +1,63 @@
+body{
+    background-color: green;
+}
+header {
+    background-color: black;
+}
+
+#logo-TC {
+    width: 450px;
+}
+
+#avengers-img,
+#picanha-img,
+#sla-img {
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 2rem;
+    color: gray;
+}
+
+#avengers-img {
+    background-image: url("img/avengers.webp");
+    height: 92.5vh;
+}
+
+#picanha-img {
+    background-image: url("img/lulapicanha");
+    height: 45vh;
+    color:gray;
+}
+
+#sla-img {
+    background-image: url("img/devemosacreditar.webp");
+    height: 45vh;
+    color: gray;
+}
+
+#logozinha {
+    width: 18%;
+}
+
+footer img {
+    width: 25px;
+}
+
+#trump-img h1{
+    font-size: 20px;
+}
+#fel-img h1{
+    font-size: 20px;
+}
+#tor-img h1{
+    font-size: 55px;
+}
+#logozinha{
+    width: 18%;
+}
+footer img{
+    width: 25px;
+}
