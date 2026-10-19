@@ -1,4 +1,5 @@
-<img width="1912" height="920" alt="Captura de tela 2026-10-19 173720" src="https://github.com/user-attachments/assets/8c0628aa-ce42-4a47-a886-53d44b371c9d" />
+<img width="1536" height="1024" alt="Colagem de Interfaces Web Modernas" src="https://github.com/user-attachments/assets/e0c29092-0e72-47f6-bdd8-287d41d4590f" />
+
 # 🖥️ Projeto de Duplicação de Telas
 
 Projeto desenvolvido para praticar a reprodução de interfaces web utilizando tecnologias front-end.
